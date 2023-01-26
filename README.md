@@ -29,5 +29,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 <div align="center">
 
-### <3 markdown <3
+### markdown <3
 </div>
